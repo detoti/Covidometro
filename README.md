@@ -1,3 +1,9 @@
+# Desafio DIO - Covidometro
+
+infelizmente esse desafio usa aulas de 2020, muita coisa mudou no processo. A API informada também já não funciona mais, o que faz com que a aplicação possua apenas sua estetica, não sua funcionalidade.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
